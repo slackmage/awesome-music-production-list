@@ -15,3 +15,6 @@ https://www.masteringthemix.com/blogs/learn/76296773-mastering-audio-for-soundcl
 
 Pitching music to playlist editors
 https://support.spotify.com/us/artists/article/pitching-music-to-playlist-editors/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkwNzcyMTY0Nl19
+-->
